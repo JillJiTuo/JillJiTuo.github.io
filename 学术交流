@@ -1,0 +1,53 @@
+<section class="card">
+                    <h2 class="card-title"><i class="fas fa-flask"></i>研究课题</h2>
+                    <div class="projects-grid">
+                        <div class="project-card">
+                            <h3 class="project-title"><i class="fas fa-brain"></i> 多模态智能学习</h3>
+                            <span class="project-period">2021-2024</span>
+                            <p class="project-description">研究图像、文本和语音数据的联合表示学习，开发跨模态理解与生成新方法。</p>
+                        </div>
+                        <div class="project-card">
+                            <h3 class="project-title"><i class="fas fa-heartbeat"></i> 医疗影像分析</h3>
+                            <span class="project-period">2019-2023</span>
+                            <p class="project-description">基于深度学习的医疗影像分析系统，用于早期疾病诊断和预后评估。</p>
+                        </div>
+                        <div class="project-card">
+                            <h3 class="project-title"><i class="fas fa-robot"></i> 可解释AI框架</h3>
+                            <span class="project-period">2022-2025</span>
+                            <p class="project-description">开发透明、可解释的AI决策系统，提高关键领域AI应用的可靠性和可信度。</p>
+                        </div>
+                        <div class="project-card">
+                            <h3 class="project-title"><i class="fas fa-car"></i> 自动驾驶感知系统</h3>
+                            <span class="project-period">2020-2023</span>
+                            <p class="project-description">研究复杂环境下的自动驾驶感知与决策系统，提高安全性和鲁棒性。</p>
+                        </div>
+                    </div>
+                    
+                    <h2 class="card-title" style="margin-top: 30px;"><i class="fas fa-users"></i>学术交流</h2>
+                    <div class="conference-item">
+                        <div class="conference-icon">
+                            <i class="fas fa-microphone"></i>
+                        </div>
+                        <div class="conference-details">
+                            <h3 class="conference-title">国际机器学习大会 (ICML 2023)</h3>
+                            <div class="conference-location">
+                                <i class="fas fa-map-marker-alt"></i> 夏威夷，美国
+                            </div>
+                            <p>特邀报告：多模态表示学习的最新进展</p>
+                            <span class="conference-date">2023年7月</span>
+                        </div>
+                    </div>
+                    <div class="conference-item">
+                        <div class="conference-icon">
+                            <i class="fas fa-chalkboard-teacher"></i>
+                        </div>
+                        <div class="conference-details">
+                            <h3 class="conference-title">计算机视觉与模式识别会议 (CVPR 2022)</h3>
+                            <div class="conference-location">
+                                <i class="fas fa-map-marker-alt"></i> 新奥尔良，美国
+                            </div>
+                            <p>专题研讨会：小样本学习在医疗影像中的应用</p>
+                            <span class="conference-date">2022年6月</span>
+                        </div>
+                    </div>
+                </section>
